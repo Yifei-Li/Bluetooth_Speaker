@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Speaker
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MIFBGIIW
 
 [Document5]
-DocumentPath=Input_Section.SchDoc
+DocumentPath=Preamp_Section.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -194,7 +194,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Speaker
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
