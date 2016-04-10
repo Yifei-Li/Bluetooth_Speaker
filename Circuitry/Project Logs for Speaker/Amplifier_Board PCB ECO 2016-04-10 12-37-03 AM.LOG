@@ -1,0 +1,44 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=6POS THRU HOLE 2.54MM PITCH New DesignItemId=6POS THRU HOLE 2.54MM
+Change Component DesignItemId : Designator=J2 Old DesignItemId=6POS THRU HOLE 2.54MM PITCH New DesignItemId=6POS THRU HOLE 2.54MM
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component DesignItemId : Designator=C13 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component DesignItemId : Designator=C17 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component DesignItemId : Designator=C19 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component DesignItemId : Designator=C20 Old DesignItemId=CAP 2.2nF 0603 New DesignItemId=CAP CER 2200pF 0603
+Change Component Comment : Designator=C11 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=C13 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=C14 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=C17 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=C19 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=C20 Old Comment=2.2nF New Comment=2200pF
+Change Component Comment : Designator=J1 Old Comment=6POS THRU HOLE 2.54MM PITCH New Comment=6POS THRU HOLE 2.54MM
+Change Component Comment : Designator=J2 Old Comment=6POS THRU HOLE 2.54MM PITCH New Comment=6POS THRU HOLE 2.54MM
+Change Component Description : Designator=C11 Old Description=Capacitor 2.2nF 0603 New Description=
+Change Component Description : Designator=C13 Old Description=Capacitor 2.2nF 0603 New Description=
+Change Component Description : Designator=C14 Old Description=Capacitor 2.2nF 0603 New Description=
+Change Component Description : Designator=C17 Old Description=Capacitor 2.2nF 0603 New Description=
+Change Component Description : Designator=C19 Old Description=Capacitor 2.2nF 0603 New Description=
+Change Component Description : Designator=C20 Old Description=Capacitor 2.2nF 0603 New Description=
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=OUT_LOW_P Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=OUT_HIGH_P Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=NetC63_2 Pin=C63-2
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=BUFFERED_LOW Pin=C66-2
+Added Pin To Net: NetName=BUFFERED_HIGH Pin=C67-2
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=NetJ3_SLEEVE Pin=J3-1
+Added Pin To Net: NetName=NetC6_1 Pin=J3-2
+Added Pin To Net: NetName=NetC5_1 Pin=J3-3
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetJ3_SLEEVE New Net Name=NetJ3_1

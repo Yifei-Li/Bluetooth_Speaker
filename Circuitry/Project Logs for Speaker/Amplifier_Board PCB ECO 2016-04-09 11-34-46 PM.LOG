@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=L5 Old DesignItemId=IND 3.3µH 28A SMD New DesignItemId=IND 3.3µH 7A SMD
+Change Component Footprint: Designator=L5 Old Footprint=BOURNES SRP1770TA New Footprint=IND_BOURNS_SRP00 - duplicate

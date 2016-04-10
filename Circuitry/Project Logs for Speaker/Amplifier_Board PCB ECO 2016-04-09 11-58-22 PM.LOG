@@ -1,0 +1,39 @@
+Change Component Comment : Designator=Q2 Old Comment=8MHZ New Comment=8MHZ Resonator
+Change Component Comment : Designator=J5 Old Comment=12V Indicator LED New Comment=2POS THRU HOLE 2.54MM
+Change Component Comment : Designator=POT1 Old Comment=20K New Comment=Pot
+Change Component Comment : Designator=POT2 Old Comment=20K New Comment=Pot
+Change Component Comment : Designator=D1 Old Comment=MBRD835LT4G New Comment=#NAME?
+Change Component Description : Designator=C23 Old Description= New Description=Film cap in LT
+Change Component Description : Designator=C43 Old Description= New Description=Film cap in LT
+Change Component Description : Designator=C44 Old Description= New Description=Film cap in LT
+Change Component Description : Designator=C45 Old Description= New Description=Film cap in LT
+Change Component Description : Designator=C46 Old Description= New Description=Film cap in LT
+Change Component Description : Designator=C26 Old Description=CAP CER 1uF 0603 New Description=
+Change Component Description : Designator=C53 Old Description=CAP CER 1uF 0603 New Description=
+Change Component Description : Designator=C54 Old Description=CAP CER 1uF 0603 New Description=
+Change Component Description : Designator=C58 Old Description=CAP CER 1uF 0603 New Description=
+Change Component Description : Designator=C59 Old Description=CAP CER 1uF 0603 New Description=
+Change Component Description : Designator=C25 Old Description=CAP CER 47pF 0603 New Description=
+Added Component: Designator=C21(CAP Radial 5mm)
+Added Component: Designator=C39(CAP_EEFK_D)
+Added Component: Designator=C40(CAP_EEFK_D)
+Added Component: Designator=C41(CAP_EEFK_D)
+Added Component: Designator=C42(CAP_EEFK_D)
+Added Component: Designator=C55(NICHICON 8x10 CAP)
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VSUPPLY Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=VSUPPLY Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=VSUPPLY Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=VSUPPLY Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=VBAT Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Member To Class: ClassName=Filter_Section Member=Component C21 0.39uF
+Added Member To Class: ClassName=Power_Section Member=Component C39 47uF
+Added Member To Class: ClassName=Power_Section Member=Component C40 47uF
+Added Member To Class: ClassName=Power_Section Member=Component C41 47uF
+Added Member To Class: ClassName=Power_Section Member=Component C42 47uF
+Added Member To Class: ClassName=Power_Supply Member=Component C55 470uF
