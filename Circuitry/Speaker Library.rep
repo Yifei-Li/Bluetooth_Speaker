@@ -1,0 +1,72 @@
+CSV text has been written to file : Speaker Library.csv
+
+Library Component Count : 65
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+2POS THRU HOLE 2.54MM
+3.5mm Audio Jack    
+6POS THRU HOLE 2.54MM
+AD5282BRUZ20        Imported
+ATMEGA328P_TQFP     
+BC127               
+BC127_1             
+CAP 0.22uF Radial 5mm
+CAP 0.39uF Radial 5mm
+CAP 0.68uF Radial 5mm
+CAP 1uF Radial 5mm  
+CAP ALUM 470uF SMD  
+CAP ALUM 47uF SMD   
+CAP CER 0.01uF 0805 
+CAP CER 0.18uF 0805 
+CAP CER 0.1uF 0805  
+CAP CER 0.22uF 0603 
+CAP CER 0.47uF 0603 
+CAP CER 1000pF 0805 
+CAP CER 1uF 0805    CAP CER 1uF 0805
+CAP CER 2200pF 0603 
+CAP CER 330pF 0603  
+CAP CER 47pF 0603   CAP CER 47pF 0603
+CAP FILM 0.068uF 1913CAP FILM 0.068uF 1913
+CAP FILM 0.1uF 1913 CAP FILM 0.1uF 1913
+CAP FILM 10nF 0603  CAP FILM 2.2nF 0805
+CAP FILM 2.2nF 0805 Capacitor 2.2nF 0805
+CSD16321Q5_DQH_8    
+IND 10uH 10A SMD    
+IND 3.3µH 28A SMD   
+LED 0603            
+LM2937IMP-3.3/NOPB  
+LM3481              IC REG CTRLR MULT TOP 10MSOP
+MBRD835LT4G         SHOTTKEY 35V 8A
+OPA134UA/2K5        
+OPA2134UA/2K5       
+OPA4134UA           Quad OPAx134 Operational Amplifier
+Pot                 
+RES 0.004R 2512     
+RES 1.3K 0603       
+RES 100K 0603       
+RES 100R 0603       
+RES 10K 0603        
+RES 10K 1206        
+RES 10R 0805        
+RES 13K 0603        
+RES 15K 0306        
+RES 1K 0603         
+RES 1K 0603_1       
+RES 1M 0603         
+RES 20K 0603        
+RES 30K 0603        
+RES 35K 0603        
+RES 4.7K 0603       
+RES 45.3K 0603      
+RES 470R 0603       
+RES 5.6K 0603       
+RES 64.9K 0603      
+RES 8.45K 0603      
+RES 9K 0603         
+RESONATOR 8MHZ      
+SPDT Switch         
+SWITCH TACTILE SPST 
+TPA3116D2           
+TPA3116D2_V2        
