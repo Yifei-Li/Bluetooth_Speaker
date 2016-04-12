@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=OUT_HIGH_P Pin=L4-1
+Removed Pin From Net: NetName=NetC24_2 Pin=L4-2
+Added Pin To Net: NetName=NetC24_2 Pin=L4-1
+Added Pin To Net: NetName=OUT_HIGH_P Pin=L4-2

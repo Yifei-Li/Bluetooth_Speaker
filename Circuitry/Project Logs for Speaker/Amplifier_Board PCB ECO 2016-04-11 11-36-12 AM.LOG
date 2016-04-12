@@ -1,0 +1,4 @@
+Added Component: Designator=R40(RESC1608X06N)
+Added Pin To Net: NetName=NetC19_2 Pin=R40-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Member To Class: ClassName=Power_Section Member=Component R40 4.7K

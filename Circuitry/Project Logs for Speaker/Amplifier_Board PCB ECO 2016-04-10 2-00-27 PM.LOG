@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=ICs Member=S1
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
