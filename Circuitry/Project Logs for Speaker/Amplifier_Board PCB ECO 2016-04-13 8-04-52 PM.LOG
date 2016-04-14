@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=CAP_RTN_2B Pin=U1-1
+Removed Pin From Net: NetName=MUTE Pin=U1-2
+Removed Pin From Net: NetName=FORWARD Pin=U1-10
+Removed Pin From Net: NetName=BACK Pin=U1-11
+Removed Pin From Net: NetName=VOL_UP Pin=U1-12
+Removed Pin From Net: NetName=VOL_DOWN Pin=U1-13
+Removed Pin From Net: NetName=PLAY/PAUSE Pin=U1-14
+Removed Pin From Net: NetName=CAP_RTN_1C Pin=U1-19
+Removed Pin From Net: NetName=BC127_RESET Pin=U1-22
+Removed Pin From Net: NetName=CAP_DRIVE_1 Pin=U1-23
+Removed Pin From Net: NetName=CAP_DRIVE_2 Pin=U1-24
+Removed Pin From Net: NetName=CAP_RTN_1A Pin=U1-25
+Removed Pin From Net: NetName=CAP_RTN_1B Pin=U1-26
+Removed Pin From Net: NetName=CAP_RTN_2A Pin=U1-32
+Removed Pin From Net: NetName=BACK Pin=U2-25
+Removed Pin From Net: NetName=FORWARD Pin=U2-26
+Added Pin To Net: NetName=CAP_RTN_1C Pin=U1-9
+Added Pin To Net: NetName=CAP_RTN_1B Pin=U1-10
+Added Pin To Net: NetName=CAP_RTN_1A Pin=U1-11
+Added Pin To Net: NetName=CAP_DRIVE_1 Pin=U1-12
+Added Pin To Net: NetName=CAP_RTN_2B Pin=U1-14
+Added Pin To Net: NetName=CAP_RTN_2A Pin=U1-15
+Added Pin To Net: NetName=CAP_DRIVE_2 Pin=U1-16
+Added Pin To Net: NetName=BC127_RESET Pin=U1-17
+Added Pin To Net: NetName=BACK Pin=U1-19
+Added Pin To Net: NetName=FORWARD Pin=U1-22
+Added Pin To Net: NetName=VOL_DOWN Pin=U1-23
+Added Pin To Net: NetName=VOL_UP Pin=U1-24
+Added Pin To Net: NetName=MUTE Pin=U1-25
+Added Pin To Net: NetName=FORWARD Pin=U2-25
+Added Pin To Net: NetName=BACK Pin=U2-26
+Added Room: Name=Connectors
+Added Room: Name=ICs
+Added Room: Name=Power_Supply

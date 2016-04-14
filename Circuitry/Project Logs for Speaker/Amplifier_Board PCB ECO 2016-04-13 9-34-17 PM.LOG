@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CAP_RTN_1C Pin=U1-9
+Removed Pin From Net: NetName=CAP_RTN_1B Pin=U1-10
+Removed Pin From Net: NetName=CAP_RTN_1A Pin=U1-11
+Removed Pin From Net: NetName=CAP_DRIVE_1 Pin=U1-12
+Removed Pin From Net: NetName=CAP_RTN_2B Pin=U1-14
+Removed Pin From Net: NetName=CAP_RTN_2A Pin=U1-15
+Added Pin To Net: NetName=CAP_DRIVE_1 Pin=U1-9
+Added Pin To Net: NetName=CAP_RTN_1C Pin=U1-10
+Added Pin To Net: NetName=CAP_RTN_1B Pin=U1-11
+Added Pin To Net: NetName=CAP_RTN_1A Pin=U1-12
+Added Pin To Net: NetName=CAP_RTN_2A Pin=U1-14
+Added Pin To Net: NetName=CAP_RTN_2B Pin=U1-15

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=VSUPPLY Pin=R73-2
+Removed Member From Class: ClassName=Connectors Member=J4
+Removed Member From Class: ClassName=Connectors Member=R73
+Added Room: Name=Power_Supply
