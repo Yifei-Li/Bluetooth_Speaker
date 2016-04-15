@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAP_RTN_2A Pin=U1-14
+Removed Pin From Net: NetName=CAP_RTN_2B Pin=U1-15
+Added Pin To Net: NetName=CAP_RTN_2B Pin=U1-14
+Added Pin To Net: NetName=CAP_RTN_2A Pin=U1-15
