@@ -192,18 +192,22 @@ GenerateClassCluster=0
 DocumentUniqueId=USMBPYWI
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Speaker\Power_Supply.BOM
+DocumentPath=Project Outputs for Speaker\Design Rule Check - Amplifier_Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Speaker\Power_Supply.CSV
+DocumentPath=Project Outputs for Speaker\Power_Supply.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Speaker Library.csv
+DocumentPath=Project Outputs for Speaker\Power_Supply.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Speaker Library.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Speaker Library.rep
 DItemRevisionGUID=
 
