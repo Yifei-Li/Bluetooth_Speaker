@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC20_2 Pin=R39-1
+Removed Pin From Net: NetName=NetC61_1 Pin=R68-2
+Removed Pin From Net: NetName=NetC62_1 Pin=R69-2
+Removed Pin From Net: NetName=NetC20_2 Pin=U6-7
+Removed Pin From Net: NetName=NetC20_2 Pin=U6-8
+Removed Pin From Net: NetName=VSUPPLY Pin=U8-4
+Removed Pin From Net: NetName=NetC58_2 Pin=U8-8
+Removed Pin From Net: NetName=NetR61_1 Pin=U8-9
+Removed Pin From Net: NetName=NetC56_2 Pin=U8-10
+Removed Pin From Net: NetName=GND Pin=U8-11
+Removed Pin From Net: NetName=NetC60_2 Pin=U8-12
+Removed Pin From Net: NetName=NetR71_2 Pin=U8-13
+Removed Pin From Net: NetName=NetR71_2 Pin=U8-14
+Removed Member From Class: ClassName=Filter_Section Member=R68
+Removed Member From Class: ClassName=Filter_Section Member=R69
+Change Component DesignItemId : Designator=U8 Old DesignItemId=OPA4134UA New DesignItemId=OPA2134UA/2K5
+Change Component Footprint: Designator=U8 Old Footprint=SOIC127P600X175-14N New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=U8 Old Comment=OPA4134UA New Comment=OPA2134UA
+Added Component: Designator=R73(RESC1608X06N)
+Added Pin To Net: NetName=NetC61_1 Pin=POT1-2
+Added Pin To Net: NetName=NetC62_1 Pin=POT2-2
+Added Pin To Net: NetName=NetC61_1 Pin=R65-2
+Added Pin To Net: NetName=NetC62_1 Pin=R66-2
+Added Pin To Net: NetName=NetC58_2 Pin=U8-1
+Added Pin To Net: NetName=NetC56_2 Pin=U8-2
+Added Pin To Net: NetName=NetR61_1 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=NetR71_2 Pin=U8-5
+Added Pin To Net: NetName=NetC60_2 Pin=U8-6
+Added Pin To Net: NetName=NetR71_2 Pin=U8-7
+Added Pin To Net: NetName=VSUPPLY Pin=U8-8
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=R73-1
+Added Pin To Net: NetName=NetR39_1 Pin=U6-8
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR73_2 Pin=R73-2
+Added Pin To Net: NetName=NetR73_2 Pin=U6-7
+Added Net: Name=NetR73_2
+Added Member To Class: ClassName=Power_Section Member=Component R73 JUMPER

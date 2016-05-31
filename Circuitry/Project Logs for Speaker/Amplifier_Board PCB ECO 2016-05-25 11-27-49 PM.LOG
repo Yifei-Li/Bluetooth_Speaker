@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=Filter_Section Member=Component C63 10nF
+Added Member To Class: ClassName=Filter_Section Member=Component C64 1uF
+Added Room: Name=Connectors
+Added Room: Name=Filter_Section
+Added Room: Name=ICs
+Added Room: Name=Input_Section
+Added Room: Name=Power_Section
+Added Room: Name=Power_Supply

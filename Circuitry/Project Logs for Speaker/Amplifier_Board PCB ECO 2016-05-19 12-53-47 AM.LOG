@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=VSUPPLY Pin=C59-2
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=VSUPPLY Pin=C61-2
+Removed Member From Class: ClassName=Filter_Section Member=C65
+Removed Member From Class: ClassName=Filter_Section Member=C66
+Change Component Designator: OldDesignator=C60 NewDesignator=C59
+Change Component Designator: OldDesignator=C62 NewDesignator=C60
+Change Component Designator: OldDesignator=C63 NewDesignator=C61
+Change Component Designator: OldDesignator=C64 NewDesignator=C62
+Change Component Designator: OldDesignator=C65 NewDesignator=C63
+Change Component Designator: OldDesignator=C66 NewDesignator=C64
+Change Net Name : Old Net Name=NetC60_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC62_2 New Net Name=NetC60_2
+Change Net Name : Old Net Name=NetC63_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC64_1 New Net Name=NetC62_1
