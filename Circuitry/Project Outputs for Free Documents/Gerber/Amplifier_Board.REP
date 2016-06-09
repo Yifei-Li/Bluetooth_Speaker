@@ -1,0 +1,14 @@
+*************************************************************
+FileName = Amplifier_Board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : Amplifier_Board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
